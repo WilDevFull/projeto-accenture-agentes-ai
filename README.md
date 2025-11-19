@@ -1,2 +1,8 @@
 # projeto-accenture-agentes-ai
-projeto para avaliar, auditar e otimizar a qualidade de um software durante o seu desenvolvimento — simulando o funcionamento de uma equipe autônoma de QA (Quality Assurance) que trabalha em conjunto com um orquestrador.
+
+*EQUIPE:
+1. WILSON PEREIRA - Quality Orchestrator AI
+2. AILTON SANTOS: Architecture Inspector
+3. ARTHUR AZEVEDO: Security/Analista
+4. DAVID MENDES: DevOps Engineer
+5. JÚLIA MUNIZ: Requirements Reviewer
