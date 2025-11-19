@@ -1,0 +1,5 @@
+pyautogen
+autogen-agentchat
+autogen-ext[openai]
+autogen-ext[gemini]
+autogen-ext[anthropic]
